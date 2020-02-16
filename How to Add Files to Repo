@@ -1,4 +1,4 @@
-How to add files to Git Repository (assuming you have Git installed on your computer
+How to add files to Git Repository (assuming you have Git installed on your computer)
 
 TO FORK A REPOSITORY:
 1. Open your web browser and navigate to https://github.com/FRC-5503/2020-Team-Code
@@ -43,7 +43,7 @@ TO COMMIT (ADD) FILES AND PUSH THEM TO THE REMOTE REPOSITORY:
 
 6. Navigate to the remote repository you created earlier (should be at /c/Github/2020-Team-Code)
 
-7. Type "git add *" without quotes. The asterisk (*) will add all the files in the folder.
+7. Type "git add *" without quotes. The asterisk will add all the files in the folder.
 
 8. Type git commit -m "Put whatever here" WITH QUOTES!
 
